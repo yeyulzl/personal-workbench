@@ -1,0 +1,24 @@
+# APK build artifacts
+*.apk
+*.keystore
+*.jks
+
+# Build directories
+build/
+dist/
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
